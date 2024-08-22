@@ -28,7 +28,7 @@ Also it's fully automated from Oracle, it means we don't have to anything about 
 #### LINKS
 [Tools that are supported by Oracle](https://oracle.com/autonomous-database/tools/) </br>
 [Autonomous Database Service for Free Trial](https://oracle.com/cloud/free) </br>
-[Live Lives (All kinds of exercises](https://developer.oracle.com/livelabs) </br>
+[Live Lives (All kinds of exercises)](https://developer.oracle.com/livelabs) </br>
 
 
 
