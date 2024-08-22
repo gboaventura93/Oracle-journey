@@ -26,7 +26,7 @@ It could be at last 10x (up to 50x) faster than traditional coding.
 It has really nice toold to analyse and visualize.
 Also it's fully automated from Oracle, it means we don't have to anything about connection or state management, everything is made by Oracle. 
 #### LINKS
-[Tools that are supported by Oracle](www.oracle.com/autonomous-database/tools/) </br>
+[Tools that are supported by Oracle](https://oracle.com/autonomous-database/tools/) </br>
 [Autonomous Database Service for Free Trial](www,oracle.com/cloud/free) </br>
 [Live Lives (All kinds of exercises](www.developer.oracle.com/livelabs) </br>
 
