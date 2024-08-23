@@ -30,6 +30,13 @@ Also it's fully automated from Oracle, it means we don't have to anything about 
 [Autonomous Database Service for Free Trial](https://oracle.com/cloud/free) </br>
 [Live Lives (All kinds of exercises)](https://developer.oracle.com/livelabs) </br>
 
-
-
+# Oracle Cloud Infrastructre (OCI)
+A short review from infrastructure to 
+1. Infrastructure: "Foundation".
+2. Databases, Data & AI: Databases need to have a home and of course it has to be a safe one.
+3. Aplications & Analytics.
+Through everything we still have Governance & Administration and Developer Services.
+Altough the basis are Cloud regions, Cloud@Customer, Hybrid Cloud and Multi-Cloud.
+Summarizing this topic, OCI allows us to Store, Access, Govern and Analyze our Data. 
+[IMAGE]()
 
