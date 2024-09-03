@@ -1,5 +1,5 @@
 # Oracle-journey
-That's my journey to get the Oracle Cloud Data Management Foundation Associate certificate!
+That's my journey to get the Oracle Cloud Data Management Foundation
 *Less time on maintenance, more time for data innovation*
 
 ## Oracle Autonomous Database Services
