@@ -1,5 +1,5 @@
 # Oracle-journey
-That's my journey to get the Oracle Cloud Data Management Foundation
+That's my journey to get the Oracle Cloud Data Management Foundation </br>
 *Less time on maintenance, more time for data innovation*
 
 ## Oracle Autonomous Database Services
